@@ -4,7 +4,7 @@ This project is being developed as part of the **Winter School on Robotics and A
 
 ## Team
 
-**Team Lead:** Ayesha Sana
+**Team Lead:** [Ayesha Sana](https://www.linkedin.com/in/ayesha-sana-99627b1a4/)
 
 **Team Members:**
 - 
