@@ -7,9 +7,12 @@ This project is being developed as part of the **Winter School on Robotics and A
 **Team Lead:** [Ayesha Sana](https://www.linkedin.com/in/ayesha-sana-99627b1a4/)
 
 **Team Members:**
-- 
-
-## Project Overview
+- [Sourav Surya Majumdar](https://www.linkedin.com/in/sourav-surya-majumder-14b241187/)
+- [Ethan Hocking](https://www.linkedin.com/in/ethan-hocking-412573317/)
+- [Zuyang Ye](https://www.linkedin.com/in/zuyang-ye-261bb2304/)
+- [Nay Chi Nway](https://www.linkedin.com/in/nay-chi-nway-3431332a5/)
+- [Suhas Adiga](https://www.linkedin.com/in/adigasuhas/)
+- [Younes Besseghir](https://www.linkedin.com/in/younes-besseghir-b35587336/)
 
 ## Project Overview
 
